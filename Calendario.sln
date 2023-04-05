@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calendario", "Calendario\Calendario.csproj", "{7144EDE1-C1CB-4C36-A33B-F97A7128C673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend", "Backend\Backend.csproj", "{336BE66D-850F-4394-998D-9A9D55B53903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7144EDE1-C1CB-4C36-A33B-F97A7128C673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7144EDE1-C1CB-4C36-A33B-F97A7128C673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7144EDE1-C1CB-4C36-A33B-F97A7128C673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7144EDE1-C1CB-4C36-A33B-F97A7128C673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336BE66D-850F-4394-998D-9A9D55B53903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336BE66D-850F-4394-998D-9A9D55B53903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336BE66D-850F-4394-998D-9A9D55B53903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336BE66D-850F-4394-998D-9A9D55B53903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49ABB306-062C-4DA5-BBF4-15E5153CD073}
+	EndGlobalSection
+EndGlobal
